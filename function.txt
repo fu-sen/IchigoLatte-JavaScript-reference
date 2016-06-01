@@ -11,9 +11,13 @@ function <関数名>(<値>[,<値>][,...])
 }
 
 [ コマンド 例 ]
-function <関数名>(<値>[,<値>][,...])
+function balloon(b)
 {
-  <コマンド>
+  while (b>0){
+    log("ba,");
+    b=b-1;
+  }
+  log("ballooooooon ><\n";
 }
 
 [ 解説 ]
