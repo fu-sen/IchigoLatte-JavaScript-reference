@@ -5,10 +5,11 @@ setKpres
 キーが押された時に関数を実行します。
 
 [ コマンド 書式 ]
-setKpres(<関数>)
+setKpres([<関数>])
 
 [ コマンド 例 ]
 setKpres(KeyIn);
 
 [ 解説 ]
+0.8 より setKpres() とした場合は実行を解除します。
 
