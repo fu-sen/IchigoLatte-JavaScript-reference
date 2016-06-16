@@ -4,20 +4,20 @@ function
 [ 機能 ]
 関数を定義します。
 
-[ コマンド 書式 ]
+[ 書式 ]
 function <関数名>(<値>[,<値>][,...])
 {
   <コマンド>
 }
 
-[ コマンド 例 ]
+[ 例 ]
 function balloon(b)
 {
   while (b>0){
     log("ba,");
     b=b-1;
   }
-  log("ballooooooon ><\n";
+  log("ballooooooon ><\n");
 }
 
 [ 解説 ]
