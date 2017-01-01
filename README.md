@@ -11,5 +11,5 @@ Windows ではメモ帳を使用する事が可能です。
 
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
 * IchigoJam (公式) http://ichigojam.net/
-* イチゴジャム レシピ (公開元) http://15jamrecipe.jimdo.com/
+* イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
