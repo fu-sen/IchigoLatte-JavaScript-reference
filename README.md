@@ -9,6 +9,15 @@ RAW で参照した場合、またファイルをダウンロードした場合<
 .txt ファイルは文字コード UTF-8、改行コード CR+LF になります。<br />
 Windows ではメモ帳を使用する事が可能です。
 
+### MixJuice 版
+
+MixJuice で参照できるバージョンです。<br />
+（2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
+
+https://github.com/fu-sen/ilref<br />
+?"MJ GETS fu-sen.github.io/Ilref/(コマンド名小文字)<br />
+例 ?"MJ GETS fu-sen.github.io/ilref/ver
+
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
 * IchigoJam (公式) http://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
