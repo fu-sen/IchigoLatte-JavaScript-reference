@@ -14,14 +14,20 @@ Windows ではメモ帳を使用する事が可能です。
 MixJuice で参照できるバージョンです。<br />
 （2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
 
-https://github.com/fu-sen/ilref<br />
+https://github.com/fu-sen/ilref
+
+lash> は入力する必要ありません。
+```
 lash>**echo MJ GETS fu-sen.github.io/Ilref/(コマンド名小文字)> uart;cat uart**<br />
 例 echo MJ GETS fu-sen.github.io/Ilref/ver> uart;cat uart
+```
 
 短縮 URL 15jr.ml にも入れてあります。より短く入力できます。
 
+```
 lash>**echo MJ GETS 15jr.ml/(コマンド名小文字)> uart;cat uart**<br />
 例 echo MJ GETS 15jr.ml/ver> uart;cat uart
+```
 
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
 * IchigoJam (公式) http://ichigojam.net/
