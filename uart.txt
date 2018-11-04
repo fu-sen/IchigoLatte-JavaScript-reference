@@ -10,7 +10,7 @@ uart(<送信内容>[,<送信内容>][,...])
 uart()
 
 [ 例 ]
-uart("GET MJ fu-sen.github.io/IJHELP/"."\n");
+uart("GETS MJ 15je.ml/"."\n");
 ret = uart();
 
 [ 解説 ]
