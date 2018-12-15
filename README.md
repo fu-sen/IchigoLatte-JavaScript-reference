@@ -1,17 +1,17 @@
 ## IchigoLatte コマンド一覧
 
-IchigoLatte で使用できる命令を一覧しています。<br />
+IchigoLatte で使用できる命令を一覧しています。
 
-Download ZIP でファイル一覧をダウンロードできます。<br />
+Download ZIP でファイル一覧をダウンロードできます。\
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
 
-RAW で参照した場合、またファイルをダウンロードした場合<br />
-.txt ファイルは文字コード UTF-8、改行コード CR+LF になります。<br />
+RAW で参照した場合、またファイルをダウンロードした場合\
+.txt ファイルは文字コード UTF-8、改行コード CR+LF になります。\
 Windows ではメモ帳を使用する事が可能です。
 
 ### MixJuice 版
 
-MixJuice で参照できるバージョンです。<br />
+MixJuice で参照できるバージョンです。\
 （2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
 
 https://github.com/fu-sen/ilref
