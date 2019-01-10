@@ -30,6 +30,6 @@ lash>echo MJ GETS 15jr.ml/(コマンド名小文字)> uart;cat uart
 ```
 
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
-* IchigoJam (公式) http://ichigojam.net/
+* IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
