@@ -9,6 +9,11 @@ RAW で参照した場合、またファイルをダウンロードした場合\
 .txt ファイルは文字コード UTF-8、改行コード CR+LF になります。\
 Windows ではメモ帳を使用する事が可能です。
 
+W 版（IchigoCake を含む）は PanCake 向けのコマンドが追加されています。\
+関連コマンドにつきましては PanCake コマンド一覧を参照して下さい。
+
+https://github.com/fu-sen/PanCake-COMMAND
+
 ### MixJuice 版
 
 MixJuice で参照できるバージョンです。\
