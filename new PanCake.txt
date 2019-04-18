@@ -1,0 +1,17 @@
+new PanCake
+IchigoCake javaScirpt
+-----------------------------------------------------------
+[ 機能 ]
+PanCake を制御するオブジェクトを作成します。
+
+[ 書式 ]
+new PanCake()
+
+[ 例 ]
+var pc=new PanCake()
+
+[ 解説 ]
+オブジェクトを入れた変数を用いて、
+PanCake コマンドを実行できます。
+PanCake コマンド一覧も参照して下さい。
+https://github.com/fu-sen/PanCake-COMMAND
