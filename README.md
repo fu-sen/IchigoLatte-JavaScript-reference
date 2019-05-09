@@ -1,6 +1,6 @@
-## IchigoLatte コマンド一覧
+## IchigoLatte JavaScript リファレンス一覧
 
-IchigoLatte で使用できる命令を一覧しています。
+IchigoLatte JavaScript で使用できる命令を一覧しています。
 
 Download ZIP でファイル一覧をダウンロードできます。\
 GitHub・Git を使っている場合は Clone を使っても良いでしょう。
@@ -18,21 +18,11 @@ https://github.com/fu-sen/PanCake-COMMAND
 ### MixJuice 版
 
 MixJuice で参照できるバージョンです。\
-（2018年2月25日に閉鎖していましたが、2018年10月12日より復活しました）
-
-https://github.com/fu-sen/ilref
-
-lash> は入力する必要ありません。
-```
-lash>echo MJ GETS fu-sen.github.io/Ilref/(コマンド名小文字)> uart;cat uart
-例 echo MJ GETS fu-sen.github.io/Ilref/ver> uart;cat uart
-```
-
-短縮 URL 15jr.ml にも入れてあります。より短く入力できます。
+[m15.lt - IchigoLatte+MixJuice コンテンツ](https://github.com/fu-sen/m15.lt) に入れてあります。
 
 ```
-lash>echo MJ GETS 15jr.ml/(コマンド名小文字)> uart;cat uart
-例 echo MJ GETS 15jr.ml/ver> uart;cat uart
+lash>echo MJ GETS m15.lt/(コマンド)> uart;cat uart
+例 echo MJ GETS m15.lt/ver> uart;cat uart
 ```
 
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
