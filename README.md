@@ -29,3 +29,4 @@ lash>echo MJ GETS m15.lt/(コマンド)> uart;cat uart
 * IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdo.com/
 
+[IchigoLatte](http://ichigolatte.shizentai.jp/) は [株式会社ナチュラルスタイル](https://na-s.jp/) の登録商標です。
