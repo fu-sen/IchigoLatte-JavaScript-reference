@@ -8,7 +8,7 @@ while ループから抜けます。
 break
 
 [ 例 ]
-break
+break;
 
 [ 解説 ]
 
