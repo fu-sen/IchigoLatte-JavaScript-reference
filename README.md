@@ -15,16 +15,6 @@ PanCake 向けのコマンドが追加されています。\
 
 https://github.com/fu-sen/PanCake-COMMAND
 
-### MixJuice 版
-
-MixJuice で参照できるバージョンです。\
-[m15.lt - IchigoLatte+MixJuice コンテンツ](https://github.com/fu-sen/m15.lt) に入れてあります。
-
-```
-lash>echo MJ GETS m15.lt/(コマンド)> uart;cat uart
-例 echo MJ GETS m15.lt/ver> uart;cat uart
-```
-
 * IchigoLatte (公式) http://ichigolatte.shizentai.jp/
 * IchigoJam (公式) https://ichigojam.net/
 * イチゴジャム レシピ (公開元) https://15jamrecipe.jimdofree.com/
